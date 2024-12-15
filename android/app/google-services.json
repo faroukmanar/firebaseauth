@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26283298263",
+    "project_id": "controlflutter-4726c",
+    "storage_bucket": "controlflutter-4726c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26283298263:android:1369169b4792a8518fcf92",
+        "android_client_info": {
+          "package_name": "com.fluttercontrol.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq2V_4JRd7rRZIwycuw19GgHKfwU_7i68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
